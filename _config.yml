@@ -9,9 +9,9 @@ last_name: Le
 contact_note: >
   CONTACT
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal  page
+  Uh, my personal page
 footer_text: >
-  footer
+  stoochie
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon:  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -53,10 +53,10 @@ external_services:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
-socials_in_search: true
-posts_in_search: true
-bib_search: true
+search_enabled: false
+socials_in_search: false
+posts_in_search: false
+bib_search: false
 
 # Dimensions
 max_width: 930px

@@ -6,21 +6,13 @@ cv:
   image: ""
   summary: BSc Student in Signal Processing and Machine Learning at Tampere University
 
-  social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
-    - network: LinkedIn
-      username: example
-
-#
-# address:
-#   street: 2712 Broadway St
-#   city: San Francisco
-#   region: California
-#   postalCode: CA 94115
-#   countryCode: US
+  # social_networks:
+  #   - network: X
+  #     username: AlbertEinstein
+  #   - network: GitHub
+  #     username: example
+  #   - network: LinkedIn
+  #     username: example
 
   sections:
     Education:
@@ -28,19 +20,18 @@ cv:
         location: Tampere, Pirkanmaa
         url: https://www.tuni.fi/en
         area: Information Technology & Electrical Engineering
-        studyType: BSc
+        studyType: BSc (Tech), Information Technology
         start_date: 2023
         end_date: 2026
-        score: "4.44"
+        score: "4.39"
         highlights:
           - "Major: Signal Processing and Machine Learning"
           - "Minor: Software Systems"
-
       - institution: Tampere High School of Technology
         location: Tampere, Pirkanmaa
-        area: 
+        area: ""
         studyType: High School Diploma
-        start_date: 2018  
+        start_date: 2018
         end_date: 2021
 
     Experience:
@@ -53,7 +44,6 @@ cv:
         highlights:
           - Supervising exercise sessions and exams
           - Grading exercises and exams
-
       - company: Kone Oyj
         position: Production Summer Trainee
         location: Hyvinkää, Uusimaa
@@ -63,29 +53,23 @@ cv:
           - Receiving goods
           - Operating MES
 
-
     Skills:
-      - name: Woah
+      - name: "hmm"
+        level: 
+        keywords: "hmm"
+
     Languages:
       - name: Finnish
         summary: "Native speaker"
-
       - name: English
         summary: "Fluent"
-
-      - name: Vietnam
+      - name: Vietnamese
         summary: "Conversational"
-      
       - name: Swedish
         summary: "Basics"
 
-#    Interests:
-#      - name: Physics
-#        icon: fa-solid fa-tag
-#        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-
-    Projects:
-      - name: Project 1
-        summary: Summa summarum
-          - highlight
+    # Projects:
+    #   - name: Project 1
+    #     summary: Summa summarum
+    #     highlights:
+    #       - highlight
